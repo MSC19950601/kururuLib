@@ -1,0 +1,2 @@
+# kururuLib
+program myself
